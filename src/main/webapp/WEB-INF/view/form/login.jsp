@@ -17,7 +17,7 @@
 </head>
 <body>
 <form name="form" action="j_spring_security_check" method="post" class="form-signin">
-    <security:authorize access="hasAnyRole('ROLE_ADMIN','ROLE_SUPER_USER', 'ROLE_USER')" var="isUSer"/>
+    <security:authorize access="hasAnyRole('ROLE_ADMIN', 'ROLE_USER')" var="isUSer"/>
     <font size="2" color="red">
         <c:if test="${not isUSer}">
             <c:if test="${empty param.error}">
