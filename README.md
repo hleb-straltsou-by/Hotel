@@ -1,7 +1,7 @@
 # Hotel
 This web application is designed to provide different remote services for the hotels clients
 
-#Task
+#  Task
 
 - create a web-application "Hotel";
 
