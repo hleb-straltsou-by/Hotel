@@ -17,4 +17,4 @@ This web application is designed to provide different remote services for the ho
 
 - information about users of the system is stored in the database;
 
-- use a set of threads to access the database.
+- use a set of threads to access the database;
