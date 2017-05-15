@@ -1,0 +1,10 @@
+com.gv.hotel.mvc.bean
+com.gv.hotel.mvc.email
+com.gv.hotel.mvc.email.models
+com.gv.hotel.mvc.exception
+com.gv.hotel.mvc.jstl
+com.gv.hotel.mvc.orders.controllers
+com.gv.hotel.mvc.orders.models
+com.gv.hotel.mvc.orders.services
+com.gv.hotel.mvc.orm
+com.gv.hotel.mvc.security
